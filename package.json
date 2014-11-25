@@ -1,0 +1,29 @@
+{
+  "name": "astro-date",
+  "description": "Object-oriented approach to the solar system",
+  "version": "0.1.0",
+  "author": "Jordan Cole <stilist@ratafia.info> (https://ratafia.info)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stilist/astro-date"
+  },
+  "main": "lib/astro_date.js",
+  "bugs": "https://github.com/stilist/astro-date/issues",
+  "homepage": "https://github.com/stilist/astro-date",
+  "keywords": [
+    "astronomy",
+    "date"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jshint": "~2.5.0"
+  },
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "scripts": {
+    "pretest": "jshint lib"
+  }
+}

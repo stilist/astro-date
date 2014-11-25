@@ -1,0 +1,22 @@
+{
+  "name": "astro-date",
+  "version": "0.1.0",
+  "authors": [
+    "Jordan Cole <stilist@ratafia.info>"
+  ],
+  "description": "Object-oriented approach to the solar system",
+  "main": "lib/astro_date.js",
+  "keywords": [
+    "astronomy",
+    "date"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stilist/astro-date",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
